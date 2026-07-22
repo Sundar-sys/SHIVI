@@ -1,0 +1,11 @@
+// Add/merge this into the `android { defaultConfig { ... } }` block of
+// android/app/build.gradle after running `flutter create .` to scaffold
+// the full native Android project.
+
+android {
+    defaultConfig {
+        minSdkVersion 23  // speech_to_text and just_audio_background need 21+; 23 is safer
+        targetSdkVersion 34
+        multiDexEnabled true
+    }
+}
