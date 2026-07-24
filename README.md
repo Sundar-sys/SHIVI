@@ -6,6 +6,10 @@
 
 ---
 
+![Uploading ChatGPT Image Jul 24, 2026, 07_19_23 PM.png…]()
+
+
+
 ## ✨ Features
 
 - **AI Voice Chat** — Talk to Shivi in Hindi or English. Speech-to-text captures what you say, an LLM (via Hugging Face) generates a warm, context-aware reply, and text-to-speech speaks it back with automatic language detection.
