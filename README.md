@@ -6,13 +6,7 @@
 
 ---
 
-![Uploading ChatGPT Image Jul 24, 2026, 07_19_23 PM.png…]()
-
-
-
-## ✨ Features
-
-- **AI Voice Chat** — Talk to Shivi in Hindi or English. Speech-to-text captures what you say, an LLM (via Hugging Face) generates a warm, context-aware reply, and text-to-speech speaks it back with automatic language detection.
+<img width="1024" height="1536" alt="shiviui" src="https://github.com/user-attachments/assets/798f8671-fa39-452d-aebe-02a8469506fb" />oice Chat** — Talk to Shivi in Hindi or English. Speech-to-text captures what you say, an LLM (via Hugging Face) generates a warm, context-aware reply, and text-to-speech speaks it back with automatic language detection.
 - **Relaxation Music** — Categorized tracks (Calming Beats, Ambient Sounds, Focus Music, Nature Sounds) with full playback controls and background/lock-screen audio support.
 - **Fun & Banter Zone** — Voice-based mini-games: Truth or Tongue Twister, Bilingual Trivia, and Rapid-Fire Mood Boosters, powered by a "Quiz Master" AI persona.
 - **Text fallback** — Toggle to typed input any time you don't want to use voice.
