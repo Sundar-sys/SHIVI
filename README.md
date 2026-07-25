@@ -13,7 +13,7 @@
 
 ## ✨ Features
 
-- **voice Chat** — Talk to Shivi in Hindi or English. Speech-to-text captures what you say, an LLM (via Hugging Face) generates a warm, context-aware reply, and text-to-speech speaks it back with automatic language detection.
+- **Voice Chat** — Talk to Shivi in Hindi or English. Speech-to-text captures what you say, an LLM (via Hugging Face) generates a warm, context-aware reply, and text-to-speech speaks it back with automatic language detection.
 - **Relaxation Music** — Categorized tracks (Calming Beats, Ambient Sounds, Focus Music, Nature Sounds) with full playback controls and background/lock-screen audio support.
 - **Fun & Banter Zone** — Voice-based mini-games: Truth or Tongue Twister, Bilingual Trivia, and Rapid-Fire Mood Boosters, powered by a "Quiz Master" AI persona.
 - **Text fallback** — Toggle to typed input any time you don't want to use voice.
@@ -126,6 +126,25 @@ flutter run
 ```
 
 ---
+## 📸 Dashboard Screenshots
+
+### Dashboard Home
+<img width="1600" height="753" alt="shivihome" src="https://github.com/user-attachments/assets/a05773d8-fb19-4cdb-b3b2-752ac22ba3a0" />
+
+
+### Shivi Talk
+<img width="1600" height="740" alt="shivitalk" src="https://github.com/user-attachments/assets/c1cb2532-bfdc-484f-a0ec-902ff5480a64" />
+
+
+### Shivi Relax
+<img width="689" height="1068" alt="shivirelax" src="https://github.com/user-attachments/assets/fdd82bc7-5d3d-4f3b-b48b-1a4f68a3d410" />
+
+
+### Shivi Fun
+<img width="682" height="1139" alt="shivifun" src="https://github.com/user-attachments/assets/9c949282-1079-4316-b2fb-18573c7c4557" />
+
+
+
 
 ## 🔑 Permissions
 
